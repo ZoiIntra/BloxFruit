@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/BloxFruit/main/ZoiXHub/v2.lua'))()
+loadstring(game:HttpGet('https://zoihwid.000webhostapp.com/Zoi%20X%20Hub/ZoiXCheckID.lua'))()
